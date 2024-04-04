@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeoMarche
 - 👀 I’m interested in Network, Software Engineering, Kubernetes, Cloud, DevOps and SysAdmin
-- 🌱 I’m currently software engineer in edge computing.
+- 🌱 I’m currently Lead Developer on a public cloud.
 - 🏡 I'm currently SysAdmin and DevOps volunteer for many associations.
-- 💞️ I’m looking to collaborate on any project that sounds interesting ! I reeally like a lot of things !
+- 💞️ I’m looking to collaborate on any project that sounds interesting ! I really like a lot of things !
 - 📫 How to reach me : marche.leo2@gmail.com
 
 <!---
